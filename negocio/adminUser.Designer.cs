@@ -32,9 +32,9 @@ namespace negocio
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -57,16 +57,16 @@ namespace negocio
             this.tableLayoutPanel1.Size = new System.Drawing.Size(800, 450);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
-            // button1
+            // button3
             // 
-            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(3, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(260, 39);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Usuarios";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button3.Location = new System.Drawing.Point(535, 3);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(262, 39);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Historial";
+            this.button3.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
@@ -79,16 +79,16 @@ namespace negocio
             this.button2.Text = "Inventario";
             this.button2.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // button1
             // 
-            this.button3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.Location = new System.Drawing.Point(535, 3);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(262, 39);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Historial";
-            this.button3.UseVisualStyleBackColor = true;
+            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button1.Location = new System.Drawing.Point(3, 3);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(260, 39);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Usuarios";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // adminUser
             // 
