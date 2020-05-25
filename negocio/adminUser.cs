@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
 namespace negocio
 {
@@ -7,6 +8,11 @@ namespace negocio
         public adminUser()
         {
             InitializeComponent();
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

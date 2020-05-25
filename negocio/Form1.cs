@@ -16,5 +16,40 @@ namespace negocio
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text.Equals("") ||
+                textBox2.Text.Equals(""))
+            {
+                MessageBox.Show("No se pueden dejar campos vacios!!");
+            }
+            else
+            {
+                try
+                {
+                    Boolean admin;
+                    var qw =  ConnectionDB.ExecuteQuery($"SELECT admin FROM \'user\' WHERE" +
+                                                        $" username = '{textBox1.Text}' AND " +
+                                                        $"password = '{textBox2.Text}'");
+                    admin = Convert.ToBoolean(qw);
+                    //si tiene al menos un valor, devuelve true, caso contrario devuelve false
+                    if (admin == true)
+                    {
+                        Form form = new adminUser();
+                        form.Show();
+                    }
+                    else if(admin == false)
+                    {
+                        /*Form form2 = new normalUser();
+                        form2.Show();*/
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Ha ocurrido un error!");
+                }
+            }
+        }
     }
 }
