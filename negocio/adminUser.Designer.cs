@@ -151,7 +151,7 @@ namespace negocio
             this.label7.Size = new System.Drawing.Size(105, 25);
             this.label7.TabIndex = 6;
             this.label7.Text = "contraseña: ";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox3
             // 
@@ -162,12 +162,12 @@ namespace negocio
             // 
             // label6
             // 
-            this.label6.Location = new System.Drawing.Point(18, 106);
+            this.label6.Location = new System.Drawing.Point(16, 107);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(69, 23);
             this.label6.TabIndex = 4;
             this.label6.Text = "Nombre:";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // comboBox2
             // 
@@ -179,12 +179,12 @@ namespace negocio
             // 
             // label5
             // 
-            this.label5.Location = new System.Drawing.Point(18, 31);
+            this.label5.Location = new System.Drawing.Point(6, 32);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(65, 23);
+            this.label5.Size = new System.Drawing.Size(79, 23);
             this.label5.TabIndex = 2;
             this.label5.Text = "Usuario:";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // groupBox2
             // 
@@ -247,21 +247,21 @@ namespace negocio
             // 
             // label3
             // 
-            this.label3.Location = new System.Drawing.Point(70, 101);
+            this.label3.Location = new System.Drawing.Point(74, 101);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(105, 25);
             this.label3.TabIndex = 1;
             this.label3.Text = "contraseña: ";
-            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(112, 39);
+            this.label2.Location = new System.Drawing.Point(97, 35);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(63, 25);
+            this.label2.Size = new System.Drawing.Size(82, 25);
             this.label2.TabIndex = 0;
             this.label2.Text = "nombre: ";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // groupBox1
             // 
@@ -285,6 +285,7 @@ namespace negocio
             this.button1.TabIndex = 2;
             this.button1.Text = "Eliminar";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // comboBox1
             // 
@@ -296,12 +297,12 @@ namespace negocio
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(152, 34);
+            this.label1.Location = new System.Drawing.Point(133, 35);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 23);
+            this.label1.Size = new System.Drawing.Size(86, 23);
             this.label1.TabIndex = 0;
             this.label1.Text = "Usuario:";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // tabPage2
             // 

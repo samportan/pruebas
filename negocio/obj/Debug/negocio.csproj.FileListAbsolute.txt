@@ -33,3 +33,38 @@ C:\Users\js_pr\RiderProjects\negocio\bin\Debug\System.Threading.Tasks.Extensions
 C:\Users\js_pr\RiderProjects\negocio\bin\Debug\System.ValueTuple.xml
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.exe.config
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\negocio.exe.config
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\negocio.exe
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\negocio.pdb
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\Npgsql.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Buffers.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Memory.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Text.Json.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.ValueTuple.dll
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\Npgsql.pdb
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\Npgsql.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Buffers.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Memory.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Text.Json.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\bin\Debug\System.ValueTuple.xml
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.csprojAssemblyReference.cache
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.exe.config
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.adminUser.resources
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.Form1.resources
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.nuevoPedido.resources
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.Properties.Resources.resources
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.csproj.GenerateResource.cache
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.exe
+C:\Users\js_pr\OneDrive\Escritorio\Documentos UCA\POO\pruebas\negocio\obj\Debug\negocio.pdb

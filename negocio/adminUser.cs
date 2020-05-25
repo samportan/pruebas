@@ -13,16 +13,23 @@ namespace negocio
         }
         private void adminUser_Load(object sender, EventArgs e)
         {
-            var usernames = ConnectionDB.ExecuteQuery("SELECT username FROM public.user ");
+            var usernames = ConnectionDB.ExecuteQuery("SELECT username FROM public.user");
             var usernamescombo = new List<string>();
 
             foreach (DataRow dr in usernames.Rows)
             {
                 usernamescombo.Add(dr[0].ToString());
             }
+            
+            var usernamescombo2 = new List<string>();
+
+            foreach (DataRow dr in usernames.Rows)
+            {
+                usernamescombo2.Add(dr[0].ToString());
+            }
 
             comboBox1.DataSource = usernamescombo;
-            comboBox2.DataSource = usernamescombo;
+            comboBox2.DataSource = usernamescombo2;
         }
 
 
@@ -41,15 +48,15 @@ namespace negocio
                     {
                         ConnectionDB.ExecuteNonQuery($"INSERT INTO public.user VALUES(" +
                                                      $"'{textBox1.Text}'," +
-                                                     $"'{textBox2}'," +
-                                                     $"{true}");
+                                                     $"'{textBox2.Text}'," +
+                                                     $"{true})");
                     }
                     else
                     {
                         ConnectionDB.ExecuteNonQuery($"INSERT INTO public.user VALUES(" +
                                                      $"'{textBox1.Text}'," +
-                                                     $"'{textBox2}'," +
-                                                     $"{false}");
+                                                     $"'{textBox2.Text}'," +
+                                                     $"{false})");
                     }
 
                     MessageBox.Show("Se ha creado el usuario correctamente!");
@@ -61,6 +68,10 @@ namespace negocio
             }
         }
 
-       
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
