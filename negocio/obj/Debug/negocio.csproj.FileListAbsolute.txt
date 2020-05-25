@@ -7,3 +7,16 @@ C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.csproj.GenerateResource.c
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.exe
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.pdb
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\bin\Debug\negocio.exe.config
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\bin\Debug\negocio.exe
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\bin\Debug\negocio.pdb
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.csprojAssemblyReference.cache
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.adminUser.resources
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.Form1.resources
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.normalUser.resources
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.nuevoPedido.resources
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.Properties.Resources.resources
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.csproj.GenerateResource.cache
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.exe
+C:\Users\danq9\Desktop\Github Repositories\pruebas\negocio\obj\Debug\negocio.pdb
