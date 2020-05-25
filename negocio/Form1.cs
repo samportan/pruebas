@@ -19,6 +19,9 @@ namespace negocio
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Form form = new adminUser();
+            form.Show();
+            /*
             if (textBox1.Text.Equals("") ||
                 textBox2.Text.Equals(""))
             {
@@ -36,13 +39,13 @@ namespace negocio
                     //si tiene al menos un valor, devuelve true, caso contrario devuelve false
                     if (admin == true)
                     {
+                        /*Form form2 = new normalUser();
+                        form2.Show();
+                        
+                    }else
+                    {
                         Form form = new adminUser();
                         form.Show();
-                    }
-                    else if(admin == false)
-                    {
-                        /*Form form2 = new normalUser();
-                        form2.Show();*/
                     }
                 }
                 catch (Exception ex)
@@ -50,6 +53,7 @@ namespace negocio
                     MessageBox.Show("Ha ocurrido un error!");
                 }
             }
+            */
         }
     }
 }

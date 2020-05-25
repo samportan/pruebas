@@ -9,7 +9,6 @@ C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.exe
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.pdb
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.adminUser.resources
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.Form1.resources
-C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.normalUser.resources
 C:\Users\js_pr\RiderProjects\negocio\obj\Debug\negocio.nuevoPedido.resources
 C:\Users\js_pr\RiderProjects\negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\js_pr\RiderProjects\negocio\bin\Debug\Npgsql.dll
